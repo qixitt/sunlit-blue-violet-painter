@@ -1,0 +1,4 @@
+interface:
+  display_name: "蓝紫暖阳·肌理色彩画"
+  short_description: "以蓝紫冷影、暖光干刷及近实远虚重绘，锁定构图内容，成品无字无水印"
+  default_prompt: "使用 $sunlit-blue-violet-painter，根据一句话创作，或保留上传图片的构图和内容进行风格化重绘。"
